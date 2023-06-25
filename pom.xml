@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-ben</finalName>
+		<finalName>tesla-pipeline1</finalName>
 		
 		<plugins>
 			<plugin>
