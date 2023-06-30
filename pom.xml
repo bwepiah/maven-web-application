@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.83.161.21:8117/mylandmarktech/repository/tesla-ben-releases/</url>
+	      <url>http://http://3.83.161.21:8117/mylandmarktech/repository/tesla-ben-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
